@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,CAAC;EACG,WAAW,EAAE,6BAA6B;;AAE9C,UAAU;EACN,SAAS,EAAE,KAAK;EAChB,MAAM,EAAE,MAAM;;ACNlB,MAAM;EACF,UAAU,EAAE,KAAK;EACjB,OAAO,EAAE,aAAa;EACtB,UAAU,EAAE,qDAAuD",
+"sources": ["../sass/style.sass","../sass/blocks/_promo.sass"],
+"names": [],
+"file": "style.css"
+}
